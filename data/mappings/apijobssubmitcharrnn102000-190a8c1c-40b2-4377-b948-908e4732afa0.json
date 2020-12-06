@@ -1,0 +1,17 @@
+{
+  "id" : "190a8c1c-40b2-4377-b948-908e4732afa0",
+  "request" : {
+    "url" : "/api/jobs/submit/CharRNN/1.0/2000",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "s120/jobid.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "190a8c1c-40b2-4377-b948-908e4732afa0",
+  "persistent" : true,
+  "insertionIndex" : 0
+}

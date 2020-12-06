@@ -1,0 +1,17 @@
+{
+  "id" : "e171a567-e467-4620-9d2b-2f9810e7d491",
+  "request" : {
+    "url" : "/api/jobs/fetch-data/123456/500",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "s120/14.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "e171a567-e467-4620-9d2b-2f9810e7d491",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

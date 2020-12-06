@@ -1,0 +1,17 @@
+{
+  "id" : "fa049210-8fbb-4a25-bf06-f6669dcaeb70",
+  "request" : {
+    "url" : "/api/jobs/fetch-data/123/500",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "flex/14.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "fa049210-8fbb-4a25-bf06-f6669dcaeb70",
+  "persistent" : true,
+  "insertionIndex" : 5
+}

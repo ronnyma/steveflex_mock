@@ -1,0 +1,17 @@
+{
+  "id" : "87309cb1-5bec-4432-947b-1a604811d025",
+  "request" : {
+    "url" : "/api/jobs/submit/CharRNN/1.1/2000",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "flex/jobid.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "87309cb1-5bec-4432-947b-1a604811d025",
+  "persistent" : true,
+  "insertionIndex" : 1
+}

@@ -1,0 +1,17 @@
+{
+  "id" : "7cefe1da-f2c0-45b5-81e2-ee152048162e",
+  "request" : {
+    "url" : "/api/jobs/status/123",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "flex/jobstatus.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "7cefe1da-f2c0-45b5-81e2-ee152048162e",
+  "persistent" : true,
+  "insertionIndex" : 2
+}

@@ -1,0 +1,17 @@
+{
+  "id" : "d885bb67-b9ea-4573-a0d5-4e3c82d8f60f",
+  "request" : {
+    "url" : "/api/jobs/status/123456",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "s120/jobstatus.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "d885bb67-b9ea-4573-a0d5-4e3c82d8f60f",
+  "persistent" : true,
+  "insertionIndex" : 3
+}
