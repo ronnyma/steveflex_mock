@@ -11,7 +11,7 @@ RUN mkdir -p /opt/wiremock/mappings
 COPY ./data/__files /opt/wiremock/__files
 COPY ./data/mappings /opt/wiremock/mappings
 
-RUN  curl -L "https://github.com/holomekc/wiremock/releases/download/2.27.2-ui/wiremock-standalone-2.27.2.jar" -o /opt/wiremock/wiremock.jar
+RUN  curl -L "https://repo1.maven.org/maven2/com/github/tomakehurst/wiremock-standalone/2.27.2/wiremock-standalone-2.27.2.jar" -o /opt/wiremock/wiremock.jar
 
 
 
