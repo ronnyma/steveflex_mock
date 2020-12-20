@@ -1,0 +1,16 @@
+{
+  "id" : "1b714a3f-1539-4b1c-92b0-1f9dd0da1105",
+  "request" : {
+    "url" : "/api/jobs/submit/CharRNN/1.0/500",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 202,
+    "bodyFileName" : "s120/jobid.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "1b714a3f-1539-4b1c-92b0-1f9dd0da1105",
+  "insertionIndex" : 4
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "6022bae8-6760-4793-b667-05370454dd83",
+  "request" : {
+    "url" : "/api/jobs/status/123456",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "s120/jobstatus.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "6022bae8-6760-4793-b667-05370454dd83",
+  "insertionIndex" : 5
+}

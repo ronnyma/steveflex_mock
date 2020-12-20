@@ -1,0 +1,16 @@
+{
+  "id" : "98b984dc-5d31-49e1-be24-79f06d88969d",
+  "request" : {
+    "url" : "/api/jobs/status/123",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "flex/jobstatus.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "98b984dc-5d31-49e1-be24-79f06d88969d",
+  "insertionIndex" : 7
+}
