@@ -1,4 +1,6 @@
 FROM openjdk:8-jre
+ADD VERSION .
+
 RUN useradd -ms /bin/bash wiremock
 USER root
 EXPOSE 8080
@@ -6,7 +8,7 @@ ENV JAVA_OPTS="-XX:MaxPermSize=1024m"
 commit=$(git rev-parse HEAD)
 git_commit=${commit::8}
 
-LABEL version=${git_commit}
+LABEL git ${git_commit}
 
 RUN mkdir -p /opt/wiremock
 WORKDIR /opt/wiremock/
