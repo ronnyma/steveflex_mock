@@ -6,7 +6,7 @@ ENV JAVA_OPTS="-XX:MaxPermSize=1024m"
 commit=$(git rev-parse HEAD)
 git_commit=${commit::8}
 
-LABEL git_commit
+LABEL version=${git_commit}
 
 RUN mkdir -p /opt/wiremock
 WORKDIR /opt/wiremock/
