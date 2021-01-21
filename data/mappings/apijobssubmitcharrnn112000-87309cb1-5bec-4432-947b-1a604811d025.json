@@ -1,7 +1,7 @@
 {
   "id" : "87309cb1-5bec-4432-947b-1a604811d025",
   "request" : {
-    "url" : "/api/jobs/submit/CharRNN/1.1/2000",
+   "urlPathPattern" : "/api/jobs/submit/CharRNN/1.1/([0-9])*",
     "method" : "POST"
   },
   "response" : {
