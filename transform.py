@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import json
-
+"""
+Bruk denne for å finjustere flex-filer
+"""
 with open('flex.json') as file:
 
     k = json.load(file)
