@@ -1,5 +1,4 @@
 FROM openjdk:8-jre
-ADD VERSION .
 
 RUN useradd -ms /bin/bash wiremock
 USER root
